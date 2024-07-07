@@ -1,0 +1,1170 @@
+﻿[
+    {
+        "opportunity_id": 1720911047380224,
+        "chatgpt": {
+            "AoR": "Area of Responsibility",
+            "CP": "Child Protection",
+            "HRP": "Humanitarian Response Plan",
+            "PIN": "People in Need",
+            "IMO": "Information Management Officer",
+            "GBV": "Gender-Based Violence",
+            "CPIMS+": "Child Protection Information Management System Plus",
+            "5Ws": "Who does What, Where, When, and for Whom",
+            "KM": "Knowledge Management",
+            "IDP": "Internally Displaced Persons"
+        },
+        "acronyms": ["AoR", "UNICEF", "CP", "HRP", "PIN", "IMO", "UNICEF","GBV", "IM", "CPIMS+", "5Ws", "IM/KM", "IDP","COVID-19", "UN", "NGO"],
+        "ignoreList": ["COVID-19", "UN", "NGO"],
+        "expanded form": [{"IDP": "internally displaced persons (IDP)"}]
+    },
+    {
+        "opportunity_id": 1724754261095680,
+        "chatgpt": {
+            "UNV": "United Nations Volunteer",
+            "U-Report": "UNICEF initiative for real-time interactions with children and adolescents",
+            "MOLISA": "Ministry of Labour, Invalids, and Social Affairs",
+            "INGO": "International Non-Governmental Organization"
+        },
+        "acronyms": ["UNV", "UN", "UNICEF", "HQ", "MOLISA", "HIV", "SDG", "(I)NGO"],
+        "ignoreList": ["HIV", "SDG", "(I)NGO", "UN"],
+        "expanded form": []
+    },
+    
+    {
+        "opportunity_id": 1715975314313472,
+        "chatgpt": {
+            "IPRCC": "International Poverty Reduction Center in China",
+            "UNV": "United Nations Volunteer",
+            "IVD": "International Volunteer Day",
+            "NUNV": "National UN Volunteer",
+            "VLA": "Volunteer Living Allowance"
+        },
+        "acronyms": ["UN", "IPRCC", "UNDP", "UNV", "IVD", "COVID-19", "SDG", "(I)NGO","SDG1","SDG5","VLA"],
+        "ignoreList": ["UN","COVID-19"],
+        "expanded form": [{"UNDP": "United Nations Development Programme (UNDP)"},{"IPRCC":"International Poverty Reduction Center in China (IPRCC)"},{"SDG":"Sustainable Development Goals (SDGs)"},{"VLA":"volunteer living allowance (VLA)"}]
+    },
+    {
+        "opportunity_id": 1715556939709696,
+        "chatgpt": {
+            "CP": "Child Protection",
+            "ECM": "Enterprise Content Management",
+            "IVD": "International Volunteer Day",
+            "ICO": "India Country Office",
+            "AGD": "Age, Gender, and Diversity",
+            "POCSO": "Protection of Children from Sexual Offences",
+            "CSO": "Civil Society Organization",
+            "VLA": "Volunteer Living Allowance"
+        },
+        "acronyms": ["UN", "ECM", "CP", "UNV", "IVD", "UNICEF", "ICO", "POCSO", "CSO","VLA", "INR", "USD"],
+        "ignoreList":["UN", "USD"],
+        "expanded form": [{"AGD":"Age, Gender and Diversity (AGD)"},{"POCSO": "Protection of Children from Sexual Offences (POCSO)"},{"VLA": "Monthly Voluntary Living Allowance (VLA)"}]
+    },
+    {
+    "opportunity_id": 1742156550684928,
+    "chatgpt": {
+        "UNV": "United Nations Volunteer",
+        "ROSA": "Regional Office for South Asia",
+        "AGD": "Age, Gender, and Diversity",
+        "VLA": "Volunteer Living Allowance"
+    },
+    "acronyms": ["UNV","UNICEF", "ROSA", "UN","AGD","HIV/AIDS", "IT"],
+    "ignoreList":["UN","HIV/AIDS","IT"],
+    "expanded form": [{"AGD":"Age, Gender and Diversity (AGD)"},{"UNICEF":"UNICEF, the United Nations Children’s Fund"},{"ROSA":"Regional Office for South Asia (ROSA)"}]
+    },
+    {
+        "opportunity_id": 1726265068252416,
+        "chatgpt": {
+            "ADB": "Asian Development Bank",
+            "SP": "Service Providers",
+            "M&E": "Monitoring & Evaluation",
+            "WB": "World Bank",
+            "SitRep": "Situation Report",
+            "ARTF": "Afghanistan Reconstruction Trust Fund"
+        },
+        "acronyms": ["ADB","SP","M&E","WB","UN","UNV","UNICEF","COVID-1","ARTF","USD"],
+        "ignoreList":["UN","COVID-1","USD"],
+        "expanded form": [{"ADB":"Asian Development Bank (ADB)"},{"SP": "(Service Providers” SP”)"},{"M&E":"Monitoring & Evaluation (M&E)"},{"WB":" World Bank (WB)"},{"ARTF":"Afghanistan Reconstruction Trust Fund (ARTF)"}]
+        },
+        {
+            "opportunity_id": 1723329392544000,
+            "chatgpt": 
+                {
+                    "UNV": "United Nations Volunteer",
+                    "C-MPI": "Child Multidimensional Poverty Indicator",
+                    "CSOs": "Civil Society Organizations",
+                    "MYR": "Malaysian Ringgit",
+                    "PSFR": "Private Sector Fundraising",
+                    "UNSDCF": "United Nations Sustainable Development Cooperation Framework"
+                },            
+            "acronyms": ["UNV","UNICEF","C-MPI","CSO","UN","PSFR","UNSDCF","MYR","USD","MS"],
+            "ignoreList":["UN","USD"],
+            "expanded form": [{"ADB":"Asian Development Bank (ADB)"},{"C-MPI": "Child  Multidimensional Poverty Indicator (C-MPI)"},{"PSFR":"Private Sector Fundraising Team (PSFR)"},{"UNSDCF":"United Nation’s Sustainable Development Cooperation Framework (UNSDCF)"}]
+            },
+            {
+                "opportunity_id": 1747133756488960,
+                "chatgpt": {
+                        "WASH": "Water, Sanitation, and Hygiene",
+                        "CCES": "Climate Change and Environmental Sustainability",
+                        "SBCC": "Social and Behaviour Change Communication",
+                        "GHD": "Global Handwashing Day",
+                        "WTD": "World Toilet Day",
+                        "NFHS": "National Family Health Survey",
+                        "NSSO": "National Sample Survey Office",
+                        "NAARS": "National Agroforestry and Rangeland Systems",
+                        "ECM": "Enterprise Content Management",
+                        "AWCs": "Anganwadi Centres",
+                        "HCFs": "Healthcare Facilities",
+                        "MHM": "Menstrual Hygiene Management",
+                        "UNV": "United Nations Volunteer",
+                        "ICO": "India Country Office",
+                        "AGD": "Age, Gender and Diversity",
+                        "ODF": "Open Defecation Free",
+                        "FSM": "Faecal Sludge Management",
+                        "IHHLs": "Individual Household Latrines",
+                        "FHTC": "Functional Household Tap Connection",
+                        "SBMV": "Swachh Bharat Swachh Vidyalaya",
+                        "GOI": "Government of India",
+                        "OCCAP": "Odisha Climate Change Action Plan",
+                        "VLA": "Volunteer Living Allowance"
+                    },
+                "acronyms": ["UNICEF","WASH-CCES","WASH","SBCC","GHD","WTD","NFHS V","NSSO","NAARS","ECM","AWC", "HCF", "MHM","UNV","UN","ICO","AGD","IEC","SDG","JJM","SBM","BASUDHA","GoI","ODF","FSM","IHHL","HH","FHTC","SBSV","COVID-19","CCES","OCCAP","BCE","CE","VLA","INR","USD"],
+                "ignoreList":["UN","COVID-19","USD"],
+                "expanded form": [{"GHD":"GHD (Global Handwashing Day)"},{"WTD": "WTD (World Toilet Day)"},{"AGD":"Age, Gender and Diversity (AGD)"},{"IEC":"information, education and communication (IEC)"},{"JJM":"Jal Jeevan Mission (JJM)"},{"SBM":"Swachh Bharat Mission (SBM)"},{"GoI":"Govt. of India (GoI)"},{"FSM":"Faecal Sludge Management (FSM)"},{"IHHL":"IHHLs (Individual Household Latrine)"},{"SBSV":"Swachh Bharat Swachh Vidyalaya (SBSV)"},{"CCES": "Climate Change and Environmental Sustainability (CCES)"},{"OCCAP":"Odisha Climate Change Action Plan (OCCAP)"},{"VLA":"Monthly Voluntary Living Allowance (VLA)"}]
+                },
+                {
+                    "opportunity_id": 1736163346586880,
+                    "chatgpt":  
+                        {"CAP": "Communication, Advocacy & Partnership",
+                        "ECD": "Early Childhood Development",
+                        "ADE": "Adolescent Development and Engagement",
+                        "VLA": "Voluntary Living Allowance",
+                        "CRC": "Convention on the Rights of the Child",
+                        "MS": "Microsoft Office",
+                        "WHO": "World Health Organization",
+                        "MNCs": "Multinational Corporations",
+                        "NCR": "National Capital Region",
+                        "UNV": "UN Volunteer",
+                        "SDGs": "Sustainable Development Goals"}
+                      
+                    ,
+                    "acronyms": ["UNV","PPT","UN","UNICEF","CRC","CAP","ECD","ADE","MNC","VLA","INR","USD","SARS-CoV-2","Covid-19","WHO","MS"],
+                    "ignoreList": ["UN","USD","SARS-CoV-2","Covid-19"],
+                    "expanded form": [{"UNICEF":"United Nations Children’s Fund (UNICEF)"},{"CRC":"Convention on the Rights of the Child (CRC)"},{"CAP":"Communication, Advocacy & Partnership (CAP)"},{"ECD":"Early Childhood Development (ECD)"},{"ADE":"Adolescent Development and Engagement (ADE)"},{"VLA":"Voluntary Living Allowance (VLA)"},{"WHO":"World Health Organization (WHO)"}]
+                },
+                {
+                    "opportunity_id": 1726499912258816,
+                    "chatgpt": {
+                        "UNV": "United Nations Volunteer",
+                        "ROSA": "Regional Office for South Asia",
+                        "AGD": "Age, Gender and Diversity"
+                      },
+                    "acronyms": ["UNV","UNICEF", "HR","ROSA","GSSC","AGD","HIV/AIDS","MS"],
+                    "ignoreList": ["HR","HIV/AIDS"],
+                    "expanded form": [{"AGD":"Age, Gender and Diversity (AGD)"}]
+                },
+                {
+                    "opportunity_id": 1729604249646336,
+                    "chatgpt": {
+                        "WG": "Working Group",
+                        "SDGs": "Sustainable Development Goals",
+                        "U-Report": "UNICEF's social messaging tool for community participation",
+                        "Mitra Muda": "Youth network in Indonesia",
+                        "Sharepoint": "Collaborative platform for document management and sharing"
+                      },
+                    "acronyms": ["UNV","UNICEF", "WG","SDG","STI","UN","MS"],
+                    "ignoreList": ["UN"],
+                    "expanded form": [{"SDG":"Sustainable Development Goals(SDGs)"},{"STI":"Sexually Transmitted Infections (STIs"}]
+                },
+                {
+                    "opportunity_id": 1718458028817664,
+                    "chatgpt": {
+                        "YELL": "Youth Environment Living Labs",
+                        "UNDP": "United Nations Development Programme",
+                        "UNICEF": "United Nations Children’s Fund",
+                        "ALAM": "Amanah Lestari Alam",
+                        "ERL": "Express Rail Link",
+                        "MS Office": "Microsoft Office",
+                        "SDCF": "Sustainable Cooperation Framework"
+                      },
+                    "acronyms": ["UNDP","YELL","UNICEF","UNSDCF","SDG","ALAM","ERL", "KL","ATM","MS"],
+                    "ignoreList": ["SDG","ATM"],
+                    "expanded form": [{"YELL":"Youth Environment Living Labs (YELL)"},{"UNDP":"United Nations Development Programme (UNDP)"},{"UNICEF":"United Nations Children’s Fund (UNICEF)"},{"ALAM":"Amanah Lestari Alam (ALAM)"},{"ERL":"The Express Rail Link (ERL)"}]
+                },
+                {
+                    "opportunity_id": 1730658147002624,
+                    "chatgpt": {
+                        "GenU": "Generation Unlimited",
+                        "YuWaah": "Youth and Workforce Readiness Initiative",
+                        "UNV": "UN Volunteers",
+                        "CSOs": "Civil Society Organizations",
+                        "NGOs": "Non-Governmental Organizations",
+                        "MNCs": "Multinational Corporations",
+                        "VLA": "Voluntary Living Allowance",
+                        "AGD": "Age, Gender and Diversity",
+                        "WHO": "World Health Organization"
+                      }
+                      ,
+                    "acronyms": ["GenU","YuWaah","UNV","UN","UNICEF","CSO","AGD","NGO","MNC","VLA","INR","USD","SARS-CoV-2","Covid-19","WHO","MS"],
+                    "ignoreList": ["UN","NGO","USD","SARS-CoV-2","Covid-19"],
+                    "expanded form": [{"AGD":"Age, Gender and Diversity (AGD)"},{"GenU":"Generation Unlimited (GenU)"},{"VLA":"Monthly Voluntary Living Allowance (VLA)"},{"WHO":"World Health Organization (WHO)"}]
+                },
+                {
+                    "opportunity_id": 1726446134748416,
+                    "chatgpt": {
+                        "CCEOP": "Cold Chain Expansion and Optimization Plan",
+                        "EVM": "Effective Vaccine Management",
+                        "PHLMC": "Provincial Health Logistics Management Canter",
+                        "RI": "Routine Immunization",
+                        "SOP": "Standard Operating Procedure",
+                        "TSU": "Technical Support Unit",
+                        "UNV": "UN Volunteers"
+                      }
+                      ,
+                    "acronyms": ["UNICEF","UNV","CCEOP","EVM","PHLMC","PHD","GAVI","SOP","FWD","MD","TSU","RI","UN","AGD","HIV/AIDS","NIP","PHLMC","CCEOP","EPI","e-LMIS","MS","UN"],
+                    "ignoreList": ["PHD","UN","HIV/AIDS"],
+                    "expanded form": [{"AGD":"Age, Gender and Diversity (AGD)"},{"NIP":"National Immunization Programme (NIP)"},{"PHLMC":"provincial health logistics management centre (PHLMC)"},{"CCEOP":"Cold Chain Expansion and Optimization (CCEOP)"},{"EVM":"Effective Vaccine Management Systems Strengthening (EVM)"}]
+                },
+                {
+                    "opportunity_id": 1719583608958208,
+                    "chatgpt": {
+                        "CO": "Country Office",
+                        "HQ": "Headquarters",
+                        "IVD": "International Volunteer Day",
+                        "NY": "New York",
+                        "UNV": "UN Volunteers",
+                        "VLA": "Volunteer Living Allowance"
+                      }
+                      ,
+                    "acronyms": ["NOB","NY", "HQ","UNICEF","IVD","AIDS","CO","VLA","RMB","UN","MS"],
+                    "ignoreList": ["HQ","AIDS","UN","MS"],
+                    "expanded form": [{"VLA":"volunteer living allowance (VLA)"}]
+                },
+                {
+                    "opportunity_id": 1751902024519936,
+                    "chatgpt": {
+                        "AIS": "Archipelagic and Island States",
+                        "G-Suites": "Google Suites",
+                        "SDG": "Sustainable Development Goal",
+                        "UNDP": "United Nations Development Programme",
+                        "UNV": "UN Volunteers"
+                      }
+                      ,
+                    "acronyms":["AIS","UN","UNDP","SDG"],
+                    "ignoreList":["UN","SDG"],
+                    "expanded form": [{"AIS":"Archipelagic and Island States (AIS)"}]
+                },
+                {
+                    "opportunity_id": 1744107827224832,
+                    "chatgpt": {
+                        "AIS": "Archipelagic and Island States",
+                        "G-Suites": "Google Suites",
+                        "SDG": "Sustainable Development Goal",
+                        "UNDP": "United Nations Development Programme",
+                        "UNV": "UN Volunteers"
+                      }
+                      ,
+                    "acronyms": ["SESP","UNV","MoEST","DACS","UN","UNICEF","MoU","AGD","HIV/AIDS","SWAp","LEDPG","JFP","CSO","TA","ToR","TWG"],
+                    "ignoreList": ["UN","HIV/AIDS"],
+                    "expanded form": [{"AGD":"Gender and Diversity (AGD)"},{"SWAp":"Sector Wide Approach (SWAp)"},{"DACS":"Development Assistance Coordination Section (DACS)"},{"LEDPG":"Local Education Development Partner Group (LEDPG)"},{"CSO":"civil society organizations"},{"SESP":"School Education Sector Plan"}]
+                },
+                {
+                    "opportunity_id": 1739676612489472,
+                    "chatgpt": {
+                        "AGD": "Age, Gender and Diversity",
+                        "DRRM": "Disaster Risk Reduction and Management",
+                        "GCM": "Global Compact for Migration",
+                        "IOM": "International Organization for Migration",
+                        "MiGOF": "Migration Governance Framework",
+                        "SDGs": "Sustainable Development Goals",
+                        "SIKAI": "Strengthening Institutional Knowledge and Capacity of Provincial and Local Government to Embark on Disaster Risk Management Action and Implementation"
+                      }
+                      ,
+                    "acronyms": ["SIKAI","DRRM","IOM","UN","UNV","DRR","AGD","MiGOF","SDG","UNSDCF","GCM","ICSC","WBD","MS"],
+                    "ignoreList": ["UN","SDG"],
+                    "expanded form": [{"AGD":"Gender and Diversity (AGD)"},{"MiGOF":"Migration Governance Framework (MiGOF)"},{"SDG":"Sustainable Development Goals (SDGs)"},{"UNSDCF":"Sustainable Development Cooperation Framework (UNSDCF)"},{"GCM":"Global Compact for Migration (GCM)"},{"SIKAI":"Strengthening Institutional Knowledge and Capacity of Provincial and Local Government to Embark on Disaster Risk Management Action and Implementation’ (SIKAI)"},{"WBD":"Well-Being Differential (WBD)"}]
+                },
+                {
+                    "opportunity_id": 1744638094383360,
+                    "chatgpt": {
+                        "BRH": "Bangkok Regional Hub",
+                        "CARA": "Climate Action for a Resilient Asia",
+                        "CCMD": "Climate Change Management Division",
+                        "CFN": "Climate Finance Network",
+                        "GCF": "Green Climate Fund",
+                        "GCCF": "Governance of Climate Change Finance",
+                        "GEF": "Global Environment Facility",
+                        "ICIMOD": "International Centre for Integrated Mountain Development",
+                        "LoCAL": "Local Governments for Sustainability",
+                        "MOF": "Ministry of Finance",
+                        "MoFE": "Ministry of Forests and Environment",
+                        "MRV": "Measurement, Reporting and Verification",
+                        "NAP": "National Adaptation Plan",
+                        "NDCs": "Nationally Determined Contributions",
+                        "RBAP": "Regional Bureau of Asia and Pacific",
+                        "Sida": "Swedish International Development Cooperation Agency",
+                        "TORs": "Terms of Reference",
+                        "UNDP": "United Nations Development Programme",
+                        "UN-Women": "United Nations Entity for Gender Equality and the Empowerment of Women"
+                      }
+                      ,
+                    "acronyms": ["UNV","CO","GCCF","CFN","UNDP","GEF","UN","GCCF-III","TOR","MOF","MoFE","CCMD","PA","RBAP","BRH","ICIMOD","UN-Women","FCDO","CARA","LoCAL","EU","NDC","NAP","MRV","MS","UNCDF"],
+                    "ignoreList": ["UN","UN-Women","EU"],
+                    "expanded form": [{"CO":"Country Office (CO)"},{"MOF":"MOF (Ministry of Finance)"},{"MoFE":"MoFE (Ministry of Forests and Environment)"},{"CCMD":"CCMD (Climate Change Management Division)"},{"RBAP":"Regional Bureau of Asia and Pacific (RBAP)"},{"BRH":"Bangkok Regional Hub (BRH)"},{"GCCF":"Governance of Climate Change Finance (GCCF)"},{"FCDO":"Foreign, Commonwealth & Development Office (FCDO)"},{"CARA":"Climate Action for a Resilient Asia (CARA)"},{"CFN":"Climate Finance Network (CFN)"}]
+                },
+                {
+                    "opportunity_id": 1728361581305088,
+                    "chatgpt": {
+                        "CCD": "Community and Capacity Development",
+                        "PMU": "Project Management Unit",
+                        "PVTGs": "Particularly Vulnerable Tribal Groups",
+                        "STs": "Scheduled Tribes",
+                        "UNDP": "United Nations Development Programme",
+                        "UNV": "UN Volunteers"
+                      }
+                      ,
+                    "acronyms": ["UNDP","PVTG","PMU","CCD","SDG","ST","VLA","INR","UN","UNV","IT"],
+                    "ignoreList": ["SDG","UN","IT"],
+                    "expanded form": [{"SDG":"Sustainable Development Goals (SDGs)"},{"ST":"Scheduled Tribes (STs)"},{"VLA":"Volunteer Living Allowance (VLA)"}]
+                },
+                {
+                    "opportunity_id": 1723483137819904,
+                    "chatgpt":{
+                        "MCO": "Multi-Country Office",
+                        "SAMOA": "Sustainable Development of Small Island Developing States",
+                        "SDGs": "Sustainable Development Goals",
+                        "UN": "United Nations",
+                        "UNDP": "United Nations Development Programme",
+                        "UNS": "United Nations System",
+                        "UNSDG": "United Nations Sustainable Development Group"
+                      }
+                      ,
+                    "acronyms": ["UN","UNDP","SDG","AIDS","SIDS","MCO","SAMOA","UNSDG","FSM","RMI"],
+                    "ignoreList": ["UN","SDG","AIDS"],
+                    "expanded form": [{"SIDS":"Small Island Developing States (SIDS)"},{"FSM":"Federated States of Micronesia (FSM)"},{"RMI":"Republic of Marshall Islands (RMI)"}]
+                },
+                {
+                    "opportunity_id": 1730826777486592,
+                    "chatgpt":{
+                        "PDNA": "Post Disaster Needs Assessment",
+                        "NDMA": "National Disaster Management Authority",
+                        "GP": "Gram Panchayat",
+                        "DRR": "Disaster Risk Reduction",
+                        "GIS": "Geographic Information System",
+                        "UNDP": "United Nations Development Programme",
+                        "UN": "United Nations",
+                        "NGO": "Non-Governmental Organization"
+                      }
+                      ,
+                    "acronyms": ["R/R","UN","NGO","GP","DRR","GIS","UNDP","NDMA","PDNA","VLA","INR","UNV","IT"],
+                    "ignoreList": ["UN","NGO","IT"],
+                    "expanded form": [{"NDMA":"National Disaster Management Authority (NDMA)"},{"PDNA":"Post Disaster Needs Assessment (PDNA)"},{"VLA":"Volunteer Living Allowance (VLA)"}]
+                },
+                {
+                    "opportunity_id": 1718087658102016,
+                    "chatgpt": {
+                        "C4H": "Communications for Health",
+                        "MOH": "Ministry of Health",
+                        "UNV": "United Nations Volunteer",
+                        "WHO": "World Health Organization"
+                      }
+                      ,
+                    "acronyms": ["WHO","C4H","UNV","MOH","WTO","UN","ASEAN","MS"],
+                    "ignoreList": ["UN"],
+                    "expanded form": [{"WHO":"World Health Organization (WHO)"},{"C4H":"Communications for Health (C4H)"},{"MOH":"Ministry of Health (MOH)"}]
+                },
+                {
+                    "opportunity_id": 1719869099853056,
+                    "chatgpt": {
+                        "NAST": "Nepal Academy of Science and Technology",
+                        "CMS": "Content Management System",
+                        "TOR": "Terms of Reference",
+                        "MOU": "Memorandum of Understanding",
+                        "LMC": "Lalitpur Metropolitan City",
+                        "SDGs": "Sustainable Development Goals",
+                        "UNDP": "United Nations Development Programme",
+                        "UNV": "United Nations Volunteer"
+                      },
+                    "acronyms": ["LMC","UN","UNV","UNDP","SDG","NAST","FGC","MOU","TOR","CMS"],
+                    "ignoreList": ["UN","SDG"],
+                    "expanded form": [{"LMC":"Lalitpur Metropolitan City (LMC)"},{"SDG":"Sustainable Development Goals (SDGs)"},{"NAST":"Nepal Academy of Science and Technology (NAST)"},{"UNDP":"United Nations Development Programme (UNDP)"},{"FGC":"Food Green City (FGC)"}]
+                },
+                {
+                    "opportunity_id": 1730380119308544,
+                    "chatgpt": {
+                        "UNDP": "United Nations Development Programme",
+                        "CSO": "Civil Society Organization",
+                        "SDGs": "Sustainable Development Goals",
+                        "UNVs": "UN Volunteers",
+                        "AGD": "Age, Gender and Diversity",
+                        "CMS": "Content Management System",
+                        "TOR": "Terms of Reference",
+                        "MOU": "Memorandum of Understanding"
+                      }
+                      ,
+                    "acronyms": ["SDG","CSO","UN","UNDP","UNV","USD","MS"],
+                    "ignoreList": ["SDG","UN","USD"],
+                    "expanded form": [{"SDG":"Sustainable Development Goals (SDGs)"}]
+                },
+                {
+                    "opportunity_id": 1718548951612672,
+                    "chatgpt": {
+                        "UNAMA": "United Nations Assistance Mission in Afghanistan",
+                        "DPKO": "Department of Peacekeeping Operations",
+                        "ICSC": "International Civil Service Commission"
+                      }
+                      ,
+                    "acronyms": ["UNAMA","UN","DPKO","ICSC","WBD","USD","MS","IT"],
+                    "ignoreList": ["UN","USD","IT"],
+                    "expanded form": [{"WBD":"Well-Being Differential (WBD)"}]
+                },
+                {
+                    "opportunity_id": 1749620970666240,
+                    "chatgpt": {
+                        "UNV": "United Nations Volunteer",
+                        "MNCH": "Maternal, Newborn, Child Health",
+                        "IMNCI": "Integrated Management of Neonatal and Childhood Illness",
+                        "ECEB": "Essential Care for Every Baby",
+                        "ECSB": "Essential Care for Small Baby",
+                        "HBB": "Helping Babies Breathe",
+                        "CCM": "Community Case Management",
+                        "CBNBC": "Community-based Newborn Care",
+                        "MHPSS": "Mental Health and Psychosocial Support",
+                        "IPC": "Inter-Personal Communication",
+                        "ODK": "Open Data Kit",
+                        "BI": "Business Intelligence"
+                      }
+                      ,
+                    "acronyms": ["MNCH","UNICEF","WHO","IMNCI","ECEB","ECSB","HBB","CCM","CBNBC","IPC","MHPSS","PHC","BI","ODK","CDM"],
+                    "ignoreList": [],
+                    "expanded form": [{"ECEB":"Essential Care for Every Baby (ECEB)"},{"ECSB":"Essential Care for Small Baby (ECSB)"},{"CBNBC":"Community-based Newborn Care (CBNBC)"},{"UNICEF":"United Nations Children’s Fund (UNICEF)"},{"IPC":"inter-personal communication (IPC)"},{"CDM":"Civil Disobedience Movement (CDM)"}]
+                },
+                {
+                    "opportunity_id": 1748972773842176,
+                    "chatgpt": {
+                        "UN": "United Nations",
+                        "UNDP": "United Nations Development Programme",
+                        "HR": "Human Resources",
+                        "UNICEF": "United Nations Children’s Fund",
+                        "EU": "European Union",
+                        "SDG": "Sustainable Development Goal",
+                        "NGO": "Non-Governmental Organization",
+                        "GoSL": "Government of Sri Lanka",
+                        "UNV": "United Nations Volunteer"
+                      }
+                      ,
+                    "acronyms": ["UN","HR","UNDP","COVID-19","GoSL","SDG","UNICEF"],
+                    "ignoreList": ["UN","HR","COVID-19","SDG"],
+                    "expanded form": [{"UNDP":"United Nations Development Programme (UNDP)"},{"GoSL":"Government of Sri Lanka (GoSL)"},{"UNICEF":"United Nations Children’s Fund (UNICEF)"}]
+                },
+                {
+                    "opportunity_id": 1737023049212160,
+                    "chatgpt": {
+                        "TEPP": "Transformative Governance for Sustainable Development",
+                        "IP": "Initiation Plan",
+                        "NHRC": "National Human Rights Commission",
+                        "BBS": "Bangladesh Bureau of Statistics",
+                        "NLASO": "National Legal Aid Service Organization",
+                        "IMED": "Inspection, Monitoring, Evaluation Division",
+                        "ICT": "Information and Communication Technology",
+                        "BIDA": "Bangladesh Investment Development Authority",
+                        "MDGs": "Millennium Development Goals",
+                        "SDGs": "Sustainable Development Goals",
+                        "LDC": "Least Developed Country"
+                      }
+                      ,
+                    "acronyms": ["TEPP","IP","UNDP","MDG","SDG","NHRC","PMO","BBS","NGO","IMED","ICT","BIDA","DBID","G2B","MP","GIU","LDC","NGOAB"],
+                    "ignoreList": ["SDG","NGO","ICT"],
+                    "expanded form": [{"UNDP":"United Nations Development Programme (UNDP)"},{"MDG":"Millennium Development Goals (MDGs)"},{"SDG":"Sustainable Development Goals (SDGs)"},{"IP":"Initiation Plan (IP)"},{"NHRC":"National Human Rights Commission (NHRC)"},{"PMO":"Prime Minister’s Office (PMO)"},{"BBS":"Bangladesh Bureau of Statistics (BBS)"},{"NLASO":"National Legal Aid Service Organization (NLASO)"},{"IMED":"Inspection, Monitoring, Evaluation Division (IMED)"},{"ICT":"Information and Communication Technology (ICT)"},{"BIDA":"Bangladesh Investment Development Authority (BIDA)"},{"DBID":"Digital Business Identification (DBID)"},{"G2B":"Government-to-Business (G2B)"},{"GIU":" Governance Innovation Unit (GIU)"}]
+                },
+                {
+                    "opportunity_id": 1722555707414784,
+                    "chatgpt": {
+                          "YuWaah": "Generation Unlimited India",
+                          "UNICEF": "United Nations Children's Fund",
+                          "UN": "United Nations",
+                          "CSOs": "Civil Society Organizations",
+                          "SOPs": "Standard Operating Procedures",
+                          "SDG": "Sustainable Development Goal",
+                          "ICT": "Information and Communication Technology",
+                          "UNV": "United Nations Volunteers",
+                          "MNCs": "Multinational Corporations"
+                        },
+                    "acronyms": ["YuWaah","NUNV","UPSHIFT","UN","CSO","SOP","UNICEF","SDG","GenU","MNC","VLA","INR","USD","UNV"],
+                    "ignoreList": ["UN","SDG","USD"],
+                    "expanded form": [{"GenU":"Generation Unlimited (GenU)"},{"VLA":"Voluntary Living Allowance (VLA)"},{"UNICEF":"United Nations Children’s Fund (UNICEF)"}]
+                },
+                {
+                    "opportunity_id": 1712606683150592,
+                    "chatgpt": {
+                          "UNV": "United Nations Volunteers",
+                          "PCAs": "Partners’ Cooperation Agreements",
+                          "RWPs": "Results Work Plans",
+                          "HPM": "High-Performance Management",
+                          "SOPs": "Standard Operating Procedures",
+                          "HACT": "Harmonized Approach to Cash Transfers",
+                          "GIS": "Geographic Information System",
+                          "MS": "Microsoft",
+                          "ARC": "ESRI ArcGIS"
+                        },
+                    "acronyms": ["UNV","PCA","RWP","HPM","UNICEF","CR","PM","HACT","UN","USD","MS"],
+                    "ignoreList": ["UN","USD"],
+                    "expanded form": [{"PCA":"Partners’ Cooperation Agreements (PCAs)"}]
+                },
+                {
+                    "opportunity_id": 1737192573379840,
+                    "chatgpt": {
+                          "LoCAL": "Local Climate Adaptive Living",
+                          "UNCDF": "United Nations Capital Development Fund",
+                          "LGAs": "Local Government Authorities",
+                          "SDGs": "Sustainable Development Goals",
+                          "PBCRGs": "Performance-Based Climate Resilience Grants",
+                          "AGD": "Age, Gender and Diversity",
+                          "UNV": "United Nations Volunteers",
+                          "UNDP": "United Nations Development Programme"
+                        },
+                    "acronyms": ["LoCAL","UNCDF","IT","UN","UNV","AGD","LGA","LDC","SDG","CCA","PBCRG","PBCRGS","IUNV","UNDSS","UNDP"],
+                    "ignoreList": ["IT","UN","SDG"],
+                    "expanded form": [{"AGD":"Age, Gender and Diversity (AGD)"},{"LoCAL":"The Local Climate Adaptive Living (LoCAL)"},{"SDG":"Sustainable Development Goals (SDGs)"},{"PBCRG":"performance-based climate resilience grants (PBCRGs)"}]
+                },
+                {
+                    "opportunity_id": 1717220336857344,
+                    "chatgpt": {
+                          "UNV": "UN Volunteers",
+                          "CO": "Country Office",
+                          "S.A.P.": "Systems, Applications & Products",
+                          "USD": "United States Dollar",
+                          "Cigna": "Cigna Corporation"
+                      },
+                    "acronyms": ["UNV","CO","S.A.P.","UNICEF","USD","MS"],
+                    "ignoreList": ["S.A.P.","USD"],
+                    "expanded form": []
+                },
+                {
+                    "opportunity_id": 1738258918508800,
+                    "chatgpt": {
+                          "UNOPS": "United Nations Office for Project Services",
+                          "SDGs": "Sustainable Development Goals",
+                          "GESI": "Gender Equality and Social Inclusion",
+                          "DRR": "Disaster Risk Reduction",
+                          "GIS": "Geographic Information System",
+                          "Autocad": "Computer-aided Design Software",
+                          "3D": "Three-dimensional",
+                          "UN": "United Nations",
+                          "GIS": "Geographic Information System",
+                          "Photoshop": "Adobe Photoshop",
+                          "IUDP": "Integrated Urban Development Plan"
+                        },
+                    "acronyms": ["UN","IUDP","GESI","DDR","UNOPS","UNV","SDG","GIS"],
+                    "ignoreList": ["UN","SDG","GIS"],
+                    "expanded form": [{"IUDP":"Integrated Urban Development Plan (IUDP)"}]
+                },
+                {
+                    "opportunity_id": 1748685903188224,
+                    "chatgpt": {
+                          "UNV": "UN Volunteers",
+                          "BAPPENAS": "Badan Perencanaan Pembangunan Nasional (National Development Planning Agency)",
+                          "SDGs": "Sustainable Development Goals",
+                          "GESI": "Gender Equality and Social Inclusion",
+                          "DRR": "Disaster Risk Reduction",
+                          "FAO": "Food and Agriculture Organization",
+                          "UNDP": "United Nations Development Programme",
+                          "UN": "United Nations"
+                        },
+                    "acronyms": ["UNV","WEF","BAPPENAS","UN","SDG","NGO","UNDP","FAO","GIS"],
+                    "ignoreList": ["UN","SDG","NGO","GIS"],
+                    "expanded form": []
+                },
+                {
+                    "opportunity_id": 1735863691344128,
+                    "chatgpt": {
+                          "UNDP": "United Nations Development Programme",
+                          "SDGs": "Sustainable Development Goals",
+                          "PMO": "Programme Management Office",
+                          "CICETE": "China International Center for Economic and Technical Exchanges",
+                          "VLA": "Volunteer Living Allowance",
+                          "RMB": "Renminbi (Chinese currency)"
+                        },
+                    "acronyms": ["UNDP","SDG","PMO","UN","NIM","CICETE","NGO","VLA","RMB"],
+                    "ignoreList": ["UNV","UN","SDG","NGO","GIS"],
+                    "expanded form": [{"PMO":"Programme Management Office (PMO)"},{"NGO":"Non-Governmental Organizations (NGOs)"},{"VLA":"volunteer living allowance (VLA)"}]
+                },
+                {
+                    "opportunity_id": 1729850533315840,
+                    "chatgpt": {
+                          "WEE": "Women's Economic Empowerment",
+                          "EU": "European Union",
+                          "UNGTG": "UN Gender Theme Group",
+                          "ACWF": "All-China Women's Federation",
+                          "RO": "Regional Office",
+                          "RCO": "Resident Coordinator's Office",
+                          "UNDP": "United Nations Development Programme",
+                          "SDGs": "Sustainable Development Goals",
+                          "SN": "Strategic Note",
+                          "VLA": "Volunteer Living Allowance",
+                          "RMB": "Renminbi (Chinese currency)"
+                        },
+                    "acronyms": ["WEE","PPT","EU","UNGTG","UN","ACWF","UNV","RO","RCO","UBDP","AGD","SN","VLA","CV","RMB"],
+                    "ignoreList": ["EU","UN"],
+                    "expanded form": [{"AGD":"Age, Gender and Diversity (AGD)"},{"SN":"Strategic Note (SN)"},{"VLA":"volunteer living allowance (VLA)"}]
+                },
+                {
+                    "opportunity_id": 1724294909239552,
+                    "chatgpt": {
+                          "RAM": "Research, Assessment and Monitoring",
+                          "WFP": "World Food Programme",
+                          "CO": "Country Office",
+                          "M&E": "Monitoring and Evaluation",
+                          "AO": "Area Office",
+                          "SDG": "Sustainable Development Goal",
+                          "SPSS": "Statistical Package for the Social Sciences",
+                          "R": "Statistical Programming Language",
+                          "Stata": "Statistical Software",
+                          "UNV": "UN Volunteers",
+                          "MS": "Microsoft",
+                          "GIS": "Geographic Information System",
+                          "MORSS": "Minimum Operational Residential Security Standards",
+                          "UNDSS": "United Nations Department of Safety and Security"
+                        },
+                    "acronyms": ["WEE","RAM","UN","WFP","CO","M&E","AO","UNV","AGD","SDG","MORSS","UNDSS","MS","SPSS"],
+                    "ignoreList": ["UN","SDG","SPSS"],
+                    "expanded form": [{"RAM":"Research, Assessment and Monitoring (RAM)"},{"AO":"Area Office (AO)"},{"AGD":"Age, Gender and Diversity (AGD)"},{"SDG":"Sustainable Development Goal (SDG)"}]
+                },
+                {
+                    "opportunity_id": 1727287204035840,
+                    "chatgpt": {
+                          "UNV": "UN Volunteers",
+                          "LVPO": "Low Value Purchase Order",
+                          "CHN": "China",
+                          "MS": "Microsoft",
+                          "RMB": "Renminbi",
+                          "PSEA": "Protection from Sexual Exploitation and Abuse"
+                        },
+                    "acronyms": ["UNV","UNICEF","LVPO","AGD","UN","VLA","RMB","MS","PSEA"],
+                    "ignoreList": ["UN"],
+                    "expanded form": [{"LVPO":"Low Value Purchase Order (LVPO)"},{"AGD":"Age, Gender and Diversity (AGD))"},{"VLA":"volunteer living allowance (VLA)"}]
+                },
+                {
+                    "opportunity_id": 1719066042423552,
+                    "chatgpt": {
+                          "UN": "United Nations",
+                          "UNDP": "United Nations Development Programme",
+                          "SESEHA": "Sustainable Energy Services for Education and Health in Afghanistan",
+                          "PV": "Photovoltaic",
+                          "KfW": "Kreditanstalt für Wiederaufbau (German Development Bank)",
+                          "SDGs": "Sustainable Development Goals",
+                          "ABADEI": "Area Based Approach to Development Emergency Initiatives",
+                          "Cigna": "Cigna Corporation",
+                          "NGOs": "Non-Governmental Organizations",
+                          "CSOs": "Civil Society Organizations",
+                          "AutoCAD": "Computer-Aided Design software",
+                          "PVSol": "PV*SOL (photovoltaic simulation software)",
+                          "MS": "Microsoft"
+                      }
+                      ,
+                    "acronyms": ["SESEHA","UN","PV","UNV","UNDP","SDG","ABADEI","KfW","USD","MS","NGO","CSO","PVSol"],
+                    "ignoreList": ["UN","SDG","USD","NGO"],
+                    "expanded form": [{"SESEHA":"Sustainable Energy Services for Education and Health in Afghanistan (SESEHA)"},{"SDG":"Sustainable Development Goals (SDGs)"},{"ABADEI":"ABADEI (Area Based Approach to Development Emergency Initiatives)"},{"KfW":"KfW, Germany’s State-owned Investment and Development Bank"}]
+                },
+                {
+                    "opportunity_id": 1734838521537792,
+                    "chatgpt":{
+                          "UN": "United Nations",
+                          "UNEP": "United Nations Environment Programme",
+                          "UNODC": "United Nations Office on Drugs and Crime",
+                          "MEA": "Multilateral Environmental Agreement",
+                          "MS": "Microsoft"
+                        },
+                    "acronyms": ["UN","UNODC","UNEP","UNV","AGD","IP","UNEP/ROAP","MEA","MS"],
+                    "ignoreList": ["UN"],
+                    "expanded form": [{"UNODC":"United Nations Office on Drugs and Crime (UNODC)"},{"AGD":"Age, Gender and Diversity (AGD)"},{"IP":"Implementing Partners (IPs)"},{"UNEP":"United Nations Environment Programme (UNEP)"},{"UNEP/ROAP": "Regional Office for Asia and the Pacific (UNEP/ROAP)"},{"MEA":"multilateral environmental agreements (MEAs)"}]
+                },
+                {
+                    "opportunity_id": 1740390291898624,
+                    "chatgpt": {
+                          "UNV": "United Nations Volunteers",
+                          "DSA": "Daily Subsistence Allowance",
+                          "MS": "Microsoft",
+                          "IT": "Information Technology",
+                          "AGD": "Age, Gender and Diversity"
+                        },
+                    "acronyms": ["UNV","UNICEF","UN","AGD","IT","UNSMS","DSA","MS"],
+                    "ignoreList": ["UN","IT"],
+                    "expanded form": [{"AGD":"Age, Gender and Diversity (AGD)"},{"UNSMS":"United Nations Security Management System (UNSMS)"}]
+                },
+                {
+                    "opportunity_id": 1735158341286144,
+                    "chatgpt": {
+                          "UNV": "United Nations Volunteers",
+                          "MCO": "Multi-Country Office",
+                          "DSA": "Daily Subsistence Allowance",
+                          "SDGs": "Sustainable Development Goals",
+                          "SOP": "Standard Operating Procedures",
+                          "PICs": "Pacific Island Countries",
+                          "UNSDCF": "United Nations Sustainable Development Cooperation Framework",
+                          "MCPD": "Multi-country Programme Document",
+                          "ICT": "Information and Communication Technology"
+                        },
+                    "acronyms": ["UNV","UN","UNDP","MCO","ID","DSA","SOP","SDG","MCPD","UNSDCF","PIC","MS","ATM"],
+                    "ignoreList": ["UN","SDG","ATM"],
+                    "expanded form": [{"AGD":"Age, Gender and Diversity (AGD)"},{"SDG":"Sustainable Development Goals (SDGs)"},{"UNDP":"United Nations Development Programme (UNDP)"},{"MCPD":"multi-country programme document (MCPD"},{"PIC":"Pacific Island Countries (PICs)"}]
+                },
+                {
+                    "opportunity_id": 1720381855226112,
+                    "chatgpt": {
+                          "GESI": "Gender Equality and Social Inclusion",
+                          "MEAL": "Monitoring, Evaluation, Accountability, and Learning",
+                          "CSO": "Civil Society Organization",
+                          "SDG": "Sustainable Development Goal",
+                          "PFM": "Public Finance Management",
+                          "M&E": "Monitoring and Evaluation",
+                          "QA": "Quality Assurance",
+                          "AGD": "Age, Gender and Diversity",
+                          "UNV": "UN Volunteers"
+                        },
+                    "acronyms": ["UNDP","Gov4Res","UN","GESI","CSO","MEAL","M&E","QA","PIANGO","AGD","SDG","PIC","PFM","MS"],
+                    "ignoreList": ["UN","QA","SDG"],
+                    "expanded form": [{"AGD":"Age, Gender and Diversity (AGD)"},{"PIC":"Pacific Islands countries (PICs)"},{"PFM":"Strengthening Public Finance Management and Governance in the Pacific” (PFM)"}]
+                },
+                {
+                    "opportunity_id": 1714648120889600,
+                    "chatgpt": {
+                          "AHF": "Afghanistan Humanitarian Fund",
+                          "HFU": "Humanitarian Financing Unit",
+                          "RCM": "Remote Call Monitoring",
+                          "TPM": "Third-Party Monitoring",
+                          "HRP": "Humanitarian Response Plan",
+                          "CBPF": "Country-Based Pooled Fund",
+                          "GMS": "Grant Management System",
+                          "OCHA": "United Nations Office for the Coordination of Humanitarian Affairs"
+                        },
+                    "acronyms": ["AHF","OCHA","DD/ICA","TPM","RCM","CBPF","HC","HFU","NGO","UN","HRP","US","GMS","COVID-19","UNV"],
+                    "ignoreList": ["NGO","UN","COVID-19"],
+                    "expanded form": [{"AHF":"Afghanistan Humanitarian Fund (AHF)"},{"DD/ICA":"Due Diligence/Internal Capacity Assessment (DD/ICA)"},{"TPM":"Third-Party Monitoring (TPM)"},{"RCM":"Remote Call Monitoring (RCM)"},{"OCHA":"Coordination of Humanitarian Affairs (OCHA)"},{"CBPF":"country-based pooled funds (CBPFs)"},{"HC":"Humanitarian Coordinator (HC)"},{"HFU":"Humanitarian Financing Unit (HFU)"},{"HRP":"Humanitarian Response Plan (HRP)"},{"GMS":"Grant management System (GMS)"}]
+                },
+                {
+                    "opportunity_id": 1722330536946944,
+                    "chatgpt": {
+                          "SCALA": "Scaling up Climate Ambition on Land Use and Agriculture through NDCs and NAPs",
+                          "NDC": "Nationally Determined Contribution",
+                          "NAPs": "National Adaptation Plans",
+                          "MoALD": "Ministry of Agriculture and Livestock Development",
+                          "PSC": "Project Steering Committee",
+                          "AGD": "Age, Gender and Diversity",
+                          "CP": "Country Programme",
+                          "TWC": "Technical Working Committee",
+                          "IKI": "International Climate Initiative",
+                          "MS Office": "Microsoft Office",
+                          "UN": "United Nations",
+                          "UNDP": "United Nations Development Programme",
+                          "CO": "Country Office",
+                          "HQ": "Headquarters",
+                          "FAO": "Food and Agriculture Organization"
+                        },
+                    "acronyms": ["UNV","SCALA","MoALD","UNDP","HQ","CO","FAO","CP","TWC","PSC","NDC","NAP","AGD","NDC","BMUB","GHG","IKI","UN","MS"],
+                    "ignoreList": ["HQ","UN"],
+                    "expanded form": [{"MoALD":"Ministry of Agriculture and Livestock Development (MoALD)"},{"AGD":"Age, Gender and Diversity (AGD)"},{"NDC":"Nationally Determined Contribution (NDC)"},{"SCALA":"Scaling up Climate Ambition on Land Use and Agriculture (SCALA)"},{"BMUB":"Federal Ministry for the Environment, Nature Conservation, Building and Nuclear Safety (BMUB)"},{"IKI":"International Climate Initiative (IKI)"}]
+                },
+                {
+                    "opportunity_id": 1728272560700672,
+                    "chatgpt": {
+                          "PMU": "Project Management Unit",
+                          "UNDP": "United Nations Development Programme",
+                          "ICT": "Information and Communication Technology",
+                          "ASP.net": "Active Server Pages .NET",
+                          "AJAX": "Asynchronous JavaScript and XML",
+                          "ISO": "International Organization for Standardization",
+                          "ITIL": "Information Technology Infrastructure Library",
+                          "IT": "Information Technology",
+                          "SDGs": "Sustainable Development Goals",
+                          "VLA": "Volunteer Living Allowance"
+                        },
+                    "acronyms": ["UNDP","IT","PMU","UNDP","SDG","ST","UN","VLA","INR","ICT","UNV","ASP","AJAX","ISO","ITIL"],
+                    "ignoreList": ["IT","UN","ICT","AJAX","ISO","ITIL"],
+                    "expanded form": [{"PMU":"Project Management Unit (PMU)"},{"SDG":"Sustainable Development Goals (SDGs)"},{"ST":"Scheduled Tribes (STs)"},{"VLA":"Volunteer Living Allowance (VLA)"}]
+                },
+                {
+                    "opportunity_id": 1749249816247552,
+                    "chatgpt": {
+                          "UNAMA": "United Nations Assistance Mission in Afghanistan",
+                          "UNDPKO": "United Nations Department of Peacekeeping Operations",
+                          "SOPs": "Standard Operating Procedures",
+                          "RCR": "Resource Control Record",
+                          "UNA": "Unknown Acronym (context-specific, not specified in the provided text)"
+                        },
+                    "acronyms": ["UNA","RCR","SOP","DPKO","UNAMA","MS"],
+                    "ignoreList": [],
+                    "expanded form": [{"DPKO":"Department of Peacekeeping Operations (DPKO)"},{"UNAMA":"United Nations Assistance Mission in Afghanistan (UNAMA)"}]
+                },
+                {
+                    "opportunity_id": 1722882212262144,
+                    "chatgpt": {
+                          "IPRCC": "International Poverty Reduction Center in China",
+                          "UNV": "United Nations Volunteers",
+                          "SDGs": "Sustainable Development Goals",
+                          "IVD": "International Volunteer Day",
+                          "VLA": "Volunteer Living Allowance",
+                          "RMB": "Renminbi (Chinese currency)"
+                        },
+                    "acronyms": ["UN","IPRCC","IVD","UNV","COVID-19","UNDP","SDG","SDG1","SDG5","VLA","RMB","NUNV"],
+                    "ignoreList": ["UN","COVID-19","SDG","SDG1","SDG5"],
+                    "expanded form": [{"UNDP":"United Nations Development Programme (UNDP)"},{"IPRCC":"International Poverty Reduction Center in China (IPRCC)"},{"SDG":"Sustainable Development Goals (SDGs)"},{"VLA":"volunteer living allowance (VLA)"}]
+                },
+                {
+                    "opportunity_id": 1724193944727808,
+                    "chatgpt": {
+                          "SBC": "Social and Behavior Change",
+                          "C4D": "Communication for Development",
+                          "RCCE": "Risk Communication and Community Engagement",
+                          "UNICEF": "United Nations Children's Fund",
+                          "USD": "United States Dollar",
+                          "MS Office": "Microsoft Office"
+                        },
+                    "acronyms": ["UNV","SBC","UN","UNICEF","USD","C4D","MS","RCCE"],
+                    "ignoreList": ["UN","USD"],
+                    "expanded form": [{"SBS":"Social Behavior change (SBC)"},{"C4D":"Communication for Development (C4D)"},{"RCCE":"Risk Communication and Community Engagement (RCCE)"}]
+                },
+                {
+                    "opportunity_id": 1719185397717248,
+                    "chatgpt": {
+                          "ACHIEVE": "Assistance for Enhanced Innovation for the Achievement of the SDGs in Indonesia",
+                          "UNV": "UN Volunteer",
+                          "SDGs": "Sustainable Development Goals",
+                          "CO": "Country Office",
+                          "MRT": "Mass Rapid Transit",
+                          "UNDP": "United Nations Development Programme"
+                        },
+                    "acronyms": ["ACHIEVE","UNV","UNDP","UN","GoI","SDG","CO","MRT"],
+                    "ignoreList": ["UN","SDG"],
+                    "expanded form": [{"GoI":"government of Indonesia (GoI)"}]
+                },
+                {
+                    "opportunity_id": 1737637619526912,
+                    "chatgpt": {
+                          "BSST": "Basic Social Service Training",
+                          "PSST": "Professional Social Service Training",
+                          "UNV": "UN Volunteer",
+                          "UNICEF": "United Nations Children's Fund"
+                        },
+                    "acronyms": ["UN","BSST","PSST","UNV","CSO","UNICEF","NGO"],
+                    "ignoreList": ["UN","NGO"],
+                    "expanded form": [{"BSST":"Basic and Professional Social Service Training (BSST and PSST)"},{"PSST":"Professional Social Service Training (BSST and PSST"}]
+                },
+                {
+                    "opportunity_id": 1720842403517696,
+                    "chatgpt": {
+                          "3W": "Who is Doing What",
+                          "4/5Ws": "Who, What, Where, When, Why",
+                          "HNO": "Humanitarian Needs Overview",
+                          "HRP": "Humanitarian Response Plan",
+                          "IN-FORM": "Information Management System for Relief Operations and Mapping",
+                          "MIS": "Management Information System",
+                          "NIS": "Nutrition Information System",
+                          "ODK": "Open Data Kit",
+                          "PIN": "Planned Interventions Number",
+                          "SMART": "Standardized Monitoring and Assessment of Relief and Transitions",
+                          "MUAC": "Mid-Upper Arm Circumference",
+                          "OCHA": "Office for the Coordination of Humanitarian Affairs",
+                          "T4D": "Technology for Development",
+                          "WG": "Working Group"
+                        },
+                    "acronyms": ["UN","NIS","SMART","MUAC","T4D","IN-FORM","ODK","OCHA","IM","WG","HRP","HNO","HPC","PIN","UNICEF","IDP","COVID-19","ArcGIS","QGIS"],
+                    "ignoreList": ["UN","COVID-19","ArcGIS","QGIS"],
+                    "expanded form": [{"NIS":"Nutrition Information System’s (NIS)"},{"HRP":"Humanitarian Response Plan (HRP)"},{"HNO":"Humanitarian Needs Overview (HNO)"},{"HPC":"Humanitarian Planning Cycle (HPC)"},{"IDP":"internally displaced persons (IDP)"}]
+                },
+                {
+                    "opportunity_id": 1707487970160896,
+                    "chatgpt": {
+                          "CRVS": "Civil Registration and Vital Statistics",
+                          "UNV": "United Nations Volunteers",
+                          "ESCAP": "Economic and Social Commission for Asia and the Pacific",
+                          "SDG": "Sustainable Development Goals",
+                          "AGD": "Age, Gender, and Diversity",
+                          "BTS": "Bangkok Mass Transit System",
+                          "MRT": "Mass Rapid Transit",
+                          "R": "Statistical Software (e.g., R programming language)",
+                          "MS": "Microsoft",
+                          "ICT": "Information and Communications Technology"
+                        },
+                    "acronyms": ["CRVS","UN","UNV","ESCAP","AGD","SDG","US","BTS","MRT","MS"],
+                    "ignoreList": ["UN","US"],
+                    "expanded form": [{"AGD":"Age, Gender and Diversity (AGD)"},{"ESCAP":"Economic and Social Commission for Asia and the Pacific (ESCAP)"},{"CRVS":"civil registration and vital statistics (CRVS)"}]
+                },
+                {
+                    "opportunity_id": 1736341011691776,
+                    "chatgpt": {
+                          "UNAMA": "United Nations Assistance Mission in Afghanistan",
+                          "CRVS": "Civil Registration and Vital Statistics",
+                          "BOQ": "Bill of Quantities",
+                          "SRSG": "Special Representative of the Secretary-General",
+                          "DPKO": "Department of Peacekeeping Operations",
+                          "ICT": "Information and Communications Technology",
+                          "UNVs": "United Nations Volunteers",
+                          "USD": "United States Dollar",
+                          "DVDs": "Digital Versatile Discs",
+                          "VCDs": "Video Compact Discs",
+                          "AutoCad": "Computer-Aided Design software"
+                        },
+                    "acronyms": ["UN","UNAMA","DPKO","UNV","UNOCA","SRSG","USD","DVD","VCD","BOQ"],
+                    "ignoreList": ["UN","USD","DVD","VCD"],
+                    "expanded form": [{"DPKO":"Department of Peacekeeping Operations (DPKO)"},{"UNOCA":"UNOCA (UN Operational Complex in Afghanistan)"}]
+                },
+                {
+                    "opportunity_id": 1741892835062016,
+                    "chatgpt": {
+                        "acronyms": {
+                          "UNAMA": "United Nations Assistance Mission in Afghanistan",
+                          "EFMS": "Engineering and Facilities Maintenance Section",
+                          "FMU": "Facility Management Unit",
+                          "FSS": "Field Support Suite",
+                          "AFP": "Agency/Funds & Program",
+                          "SAO": "Senior Administrative Officer",
+                          "RAO": "Regional Administrative Officer",
+                          "ICT": "Information and Communications Technology"
+                        }
+                      }
+                      ,
+                    "acronyms": ["UN","EFMS","FMU","SAO","VIP","UNAMA","FSS","UNAMA-HQ","UNOCA","AFP","RAO","HR","FTS","DPKO","USD","DVD"],
+                    "ignoreList": ["UN","HR","USD","DVD"],
+                    "expanded form": [{"SAO":"Senior Administrative Officer (SAO)"},{"FSS":"Field Support Suits (FSS Application)"},{"AFP":"Agency/Funds & Program (AFP)"},{"RAO":"Regional Administrative Officer (RAO)"},{"FTS":"Field Technology Section (FTS)"},{"DPKO":"Department of Peacekeeping Operations (DPKO)"},{"UNOCA":"UNOCA (UN Operational Complex in Afghanistan)"}]
+                },
+                {
+                    "opportunity_id": 1725981123357952,
+                    "chatgpt": {
+                          "UNICEF": "United Nations Children's Fund",
+                          "UNV": "UN Volunteers",
+                          "WASH": "Water, Sanitation and Hygiene",
+                          "SAO": "Senior Administrative Officer",
+                          "ICT": "Information and Communications Technology",
+                          "MRT": "Mass Rapid Transit",
+                          "ATMs": "Automated Teller Machines",
+                          "MS": "Microsoft",
+                          "FTP": "File Transfer Protocol"
+                        },
+                    "acronyms": ["Q&A","UN","UNV","UNICEF","WASH","MRT","ATM","MS"],
+                    "ignoreList": ["Q&A","UN","ATM"],
+                    "expanded form": [{"WASH":"Water, Sanitation and Hygiene (WASH)"}]
+                },
+                {
+                    "opportunity_id": 1710941565686016,
+                    "chatgpt": {
+                          "UNAMA": "United Nations Assistance Mission in Afghanistan",
+                          "ISW": "Integrated Security Workforce",
+                          "UMOJA": "Enterprise Resource Planning (ERP) system used by the UN",
+                          "MOOs": "Miscellaneous Obligation Documents",
+                          "SES": "Service Entry Sheet",
+                          "DPKO": "UN Department of Peacekeeping Operations",
+                          "SRSG": "Special Representative of the Secretary-General",
+                          "ICT": "Information and Communications Technology",
+                          "MRT": "Mass Rapid Transit",
+                          "ATMs": "Automated Teller Machines"
+                        },
+                    "acronyms": ["UN","UNAMA","ISW","SOW","UMOJA","MOO","SES","UNV","DPKO","UNOCA","SRSG","USD","DVD","VCD"],
+                    "ignoreList": ["UN","USD","DVD","VCD"],
+                    "expanded form": []
+                },
+                {
+                    "opportunity_id": 1711631973231872,
+                    "chatgpt": {
+                          "HCWM": "Healthcare Waste Management",
+                          "SDGs": "Sustainable Development Goals",
+                          "UNDP": "United Nations Development Programme",
+                          "CO": "Communications Office",
+                          "HQ": "Headquarters",
+                          "LDC": "Least Developed Country",
+                          "UMIC": "Upper Middle-Income Country",
+                          "EPU": "Economic Policy Unit",
+                          "COVID-19": "Coronavirus Disease 2019",
+                          "INGOs": "International Non-Governmental Organizations"
+                        },
+                    "acronyms": ["HCWM","HQ","SDG","CO","UNDP","MDG","LDC","UMIC","8FYP","COVID-19","EPU","UN","INGO"],
+                    "ignoreList": ["HQ","SDG","COVID-19","UN","INGO"],
+                    "expanded form": [{"HCWM":"Healthcare Waste Management"},{"MDG":"Millennium Development Goals (MDGs)"},{"LDC":"Least Developed Country (LDC)"},{"LNOB":"Leave No One Behind (LNOB)"},{"UMIC":"Upper Middle-Income Country (UMIC)"},{"EPU":"Economic Policy Unit (EPU)"}]
+                },
+                {
+                    "opportunity_id": 1746577951591680,
+                    "chatgpt": {
+                          "UNV": "United Nations Volunteers",
+                          "HR": "Human Resources",
+                          "VSC": "Volunteer Service Centre",
+                          "VSS": "Volunteer Support Services",
+                          "FU": "Field Unit",
+                          "ICT": "Information and Communications Technology",
+                          "PNG": "Papua New Guinea",
+                          "STDs": "Sexually Transmitted Diseases",
+                          "IT": "Information Technology",
+                          "HIV/AIDS": "Human Immunodeficiency Virus / Acquired Immunodeficiency Syndrome",
+                          "SDGs": "Sustainable Development Goals",
+                          "UNDP": "United Nations Development Programme",
+                          "HQ": "Headquarters"
+                        },
+                    "acronyms": ["UNV","UN","UVP","HR","VSC","VSS","ICT","UNDP","SDG","PNG","HIV","AIDS","STD","AC","IT"],
+                    "ignoreList": ["UN","HR","ICT","SDG","HIV","AIDS","IT"],
+                    "expanded form": [{"PNG":"Papua New Guinea (PNG)"},{"SDG":"Sustainable Development Goals (SDGs)"}]
+                },
+                {
+                    "opportunity_id": 1727654131130624,
+                    "chatgpt":{
+                          "SEADPRI": "Southeast Asia Disaster Prevention Research Initiative",
+                          "UKM": "Universiti Kebangsaan Malaysia",
+                          "YELL": "Youth Empowerment in Learning and Leadership",
+                          "UNDP": "United Nations Development Programme",
+                          "UNICEF": "United Nations Children’s Fund",
+                          "ALAM": "Amanah Lestari Alam",
+                          "DRR": "Disaster Risk Reduction",
+                          "SDG": "Sustainable Development Goal",
+                          "UNV": "United Nations Volunteers"
+                        },
+                    "acronyms": ["SEADPRI","UN","SEADPRI-UKM","DRR","UNV","UNDP","UNSDCF","SDG","YELL","UNICEF","ALAM","LESTARI"],
+                    "ignoreList": ["UN","SDG"],
+                    "expanded form": [{"SEADPRI":"Southeast Asia Disaster Prevention Research Initiative (SEADPRI)"},{"SDG":"Sustainable Development Goals (SDGs)"},{"DRR":"Disaster Risk Reduction (DRR)"},{"UNICEF":"United Nations Children’s Fund (UNICEF)"},{"ALAM":"Amanah Lestari Alam (ALAM)"},{"UNSDCF":"United Nations Sustainable Cooperation Framework (UNSDCF)"},{"LESTARI":"Institute of Environment and Development (LESTARI)"}]
+                },
+                {
+                    "opportunity_id": 1717131082592512,
+                    "chatgpt": {
+                          "UNV": "United Nations Volunteers",
+                          "SDGs": "Sustainable Development Goals",
+                          "UNDP": "United Nations Development Programme",
+                          "CO": "Country Office",
+                          "HR": "Human Resources",
+                          "MS": "Microsoft",
+                          "Cigna": "Cigna Corporation",
+                          "IT": "Information Technology"
+                        },
+                    "acronyms": ["UN","VAT","UNDP","SOP","UNDP","SDG","ANPDF","CO","USD","HR","MS"],
+                    "ignoreList": ["UN","SDG","USD","HR"],
+                    "expanded form": [{"SOP":"Standard Operating Procedure (SOP)"},{"ANPDF":"Afghanistan National Peace and Development Framework-ANPDF"}]
+                },
+                {
+                    "opportunity_id": 1732533350239488,
+                    "chatgpt": {
+                          "UNICEF": "United Nations Children's Fund",
+                          "RC": "Resident Coordinator",
+                          "PPD": "Public-Private Dialogue",
+                          "CPD": "Country Programme Document",
+                          "PMR": "Programme Management and Reporting",
+                          "RMPU": "Resource Mobilization and Partnership Unit",
+                          "BCO": "Bangladesh Country Office",
+                          "COVID-19": "Coronavirus Disease 2019",
+                          "USD": "United States Dollar",
+                          "P3": "Professional Level 3"
+                        },
+                    "acronyms": ["UNICEF","COVID-10","UN","NGO","BCO","RC","PPD","RMPU","COVID-19","CPD","PMR","P3","MS"],
+                    "ignoreList": ["UN","COVID-19","COVID-10"],
+                    "expanded form": []
+                },
+                {
+                    "opportunity_id": 1729507457681664,
+                    "chatgpt": {
+                          "PMO": "Project Management Office",
+                          "SDGs": "Sustainable Development Goals",
+                          "UNV": "United Nations Volunteers",
+                          "BVF": "Beijing Volunteer Service Federation",
+                          "BYL": "Beijing Youth League",
+                          "CICETE": "China International Center for Economic and Technical Exchanges",
+                          "RMB": "Renminbi (Chinese currency)",
+                          "VLA": "Volunteer Living Allowance",
+                          "RMB": "Renminbi (Chinese currency)"
+                        },
+                    "acronyms": ["PMO","UN","SDG","IVD","UNDP","UNV","UNFPA","UNOPS","BYL","CICETE","BVF","VLA","RMB"],
+                    "ignoreList": ["UN","SDG"],
+                    "expanded form": [{"PMO":"Project Management Office (PMO)"},{"UNDP":"United Nations Development Programme (UNDP)"},{"UNV":"United Nations Volunteers (UNV)"},{"BYL":"Beijing Youth League (BYL)"},{"CICETE":"China International Center for Economic and Technical Exchanges (CICETE)"},{"VLA":"volunteer living allowance (VLA)"}]
+                },
+                {
+                    "opportunity_id": 1728461550524672,
+                    "chatgpt": {
+                        "acronyms": {
+                          "CP": "Child Protection",
+                          "UNICEF": "United Nations Children's Fund",
+                          "UNV": "United Nations Volunteers",
+                          "ICO": "International Civil Service Commission",
+                          "ECM": "Enterprise Content Management",
+                          "POCSO": "Protection of Children from Sexual Offences",
+                          "VLA": "Volunteer Living Allowance",
+                          "INR": "Indian Rupee",
+                          "CSO": "Civil Society Organization",
+                          "AGD": "Age, Gender and Diversity",
+                          "POCSO": "Protection of Children from Sexual Offences",
+                          "VLA": "Volunteer Living Allowance"
+                        }
+                      }
+                      ,
+                    "acronyms": ["UNICEF","ECM","CP","UNV","UN","AGD","POCSO","CSO","VLA","INR","USD","SARS-CoV-2","Covid-19","WHO","ICO"],
+                    "ignoreList": ["UN","USD","SARS-CoV-2","Covid-19"],
+                    "expanded form": [{"AGD":"Age, Gender and Diversity (AGD)"},{"POCSO":"Protection of Children from Sexual Offences (POCSO)"},{"VLA":"Voluntary Living Allowance (VLA)"},{"WHO":"World Health Organization (WHO)"}]
+                },
+                {
+                    "opportunity_id": 1726533237289216,
+                    "chatgpt": {
+                          "MLF": "Multilateral Fund",
+                          "UNEP": "United Nations Environment Programme",
+                          "ODS": "Ozone Depleting Substances",
+                          "HFC": "Hydrofluorocarbon",
+                          "NOO": "National Ozone Officer",
+                          "NOU": "National Ozone Unit",
+                          "HPMP": "HCFC Phase-out Management Plan",
+                          "KIP": "Kigali HFC Phase-down Implementation Plan",
+                          "PCA": "Project Cooperation Agreement",
+                          "SSFA": "Small Scale Funding Agreement",
+                          "UN2UN": "UN to UN Agreement",
+                          "CAP": "Compliance Assistance Programme",
+                          "UNDP": "United Nations Development Programme",
+                          "UNIDO": "United Nations Industrial Development Organization",
+                          "GIZ": "Deutsche Gesellschaft für Internationale Zusammenarbeit (German Development Cooperation)",
+                          "RAC": "Refrigeration and Air Conditioning"
+                        },
+                    "acronyms": ["UN","SA","NOO","HCFC","HPMP","KIP","MLF","PCR","NOU","PCA","SSFA","UN2UN","UNEP","CAP","UNV","AGD","ODS","HCFC","IT","RAC","GWP","UNDP","UNIDO","GIZ","US","BTS","MRT","MS"],
+                    "ignoreList": ["UN","IT","US"],
+                    "expanded form": [{"SA":"South Asia (SA)"},{"NOO":"National Ozone Officers (NOOs)"},{"HPMP":"HCFC Phase-out Management Plan (HPMP)"},{"KIP":"Kigali HFC Phase-down Implementation Plan (KIP)"},{"MLF":"Multilateral Fund (MLF)"},{"PCR":"Project Completion Report (PCR)"},{"PCA":"Project Cooperation Agreement (PCA)"},{"SSFA":"Small Scale Funding Agreement (SSFA)"},{"AGD":"Age, Gender and Diversity (AGD)"},{"HFC":"hydrofluorocarbon (HFC)"},{"ODS":"ozone depleting substances (ODS)"},{"CAP":"Compliance Assistance Programme (CAP)"},{"HCFC":"Hydrochlorofluorocarbon (HCFC)"},{"RAC":"refrigeration and air-conditioning (RAC)"},{"NOU":"National Ozone Units (NOUs)"}]
+                },
+                {
+                    "opportunity_id": 1745158053526784,
+                    "chatgpt": {
+                          "GIS": "Geographic Information System",
+                          "GPS": "Global Positioning System",
+                          "UNICEF": "United Nations Children's Fund",
+                          "ISCG": "Inter Sector Coordination Group",
+                          "IMWG": "Information Management Working Group",
+                          "PMR": "Programme Monitoring and Reporting",
+                          "INTPA": "Integrated Programme",
+                          "AGD": "Age, Gender and Diversity",
+                          "FMM": "Field Monitoring Module"
+                        },
+                    "acronyms": ["PMR","UNICEF","UN","GIS","GPS","OM","ISCG","IMWG","INTPA","FMM","AGD"],
+                    "ignoreList": ["UN","GIS","GPS"],
+                    "expanded form": [{"ISCG":"Inter Sector Coordination (ISCG)"},{"IMWG":"Information Management Working Group (IMWG)"},{"FMM":"Field Monitoring Module (FMM)"},{"AGD":"Age, Gender and Diversity (AGD)"}]
+                },
+                {
+                    "opportunity_id": 1738203900331264,
+                    "chatgpt": {
+                          "UN": "United Nations",
+                          "UNDP": "United Nations Development Programme",
+                          "CO": "Country Office",
+                          "SDGs": "Sustainable Development Goals",
+                          "CSO": "Civil Society Organization",
+                          "M&E": "Monitoring and Evaluation",
+                          "AGD": "Age, Gender and Diversity",
+                          "STA": "Strengthening Transparency and Accountability",
+                          "CSDGs": "Cambodian Sustainable Development Goals",
+                          "MORSS": "Minimum Operating Residential Security Standards"
+                        },
+                    "acronyms": ["UN","UNDP","CO","CSO","AGD","SDG","CSDG","STA","US","ATM","Wi-Fi","MORSS","HIV","AIDS"],
+                    "ignoreList": ["UN","SDG","US","ATM","Wi-Fi","HIV","AIDS"],
+                    "expanded form": [{"AGD":"Age, Gender and Diversity (AGD)"},{"SDG":"Sustainable Development Goals (SDGs)"},{"CSDG":"Cambodian Sustainable Development Goals (CSDGs)"},{"STA":"Strengthening Transparency and Accountability"}]
+                },
+                {
+                    "opportunity_id": 1717366139706624,
+                    "chatgpt": {
+                          "FAO": "Food and Agriculture Organization",
+                          "MEAL": "Monitoring, Evaluation, Accountability, Learning",
+                          "CPF": "Country Programming Framework",
+                          "UNV": "UN Volunteers",
+                          "UNSDCF": "United Nations Sustainable Development Cooperation Framework",
+                          "M&E": "Monitoring and Evaluation",
+                          "IPC": "Integrated Food Security Classification",
+                          "MORSS": "Minimum Operating Residential Security Standards"
+                        },
+                    "acronyms": ["FAO","UN","MEAL","IPC","CPF","USD","UNV","MORSS","COVID-19","M&E","HIV","AIDS"],
+                    "ignoreList": ["UN","USD","COVID-19","HIV","AIDS"],
+                    "expanded form": [{"IPC":"Integrated Food Security Classification (IPC)"},{"CPF":"Country Programming Framework (CPF)"}]
+                }
+]
